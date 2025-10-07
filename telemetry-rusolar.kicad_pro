@@ -415,6 +415,10 @@
     [
       "02f87c78-e57a-42d6-b037-a70290e6fbe2",
       "can-transceiver"
+    ],
+    [
+      "5d1fc814-9776-4e42-80f9-45d812b2a346",
+      "MCU"
     ]
   ],
   "text_variables": {}
